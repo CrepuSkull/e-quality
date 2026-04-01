@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /future/
+Disallow: /assets/
+
+Sitemap: https://crepuskull.free.fr/e-quality/sitemap.xml
